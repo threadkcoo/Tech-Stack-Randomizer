@@ -1,0 +1,2 @@
+# Daily Notes
+Add configuration to strip console logs in production builds
